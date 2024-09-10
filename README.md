@@ -27,7 +27,8 @@ F# я выбрала, исходя из того, что у меня появи�
 
 Документация: https://learn.microsoft.com/en-us/dotnet/fsharp/
 
-Статья: https://www.softwaretestinghelp.com/functional-programming-languages/
+Статья: 22 BEST Functional Programming Languages In 2024
+By Sruthy https://www.softwaretestinghelp.com/functional-programming-languages/
 
 ## Про лабораторную работу номер 4
 Генератор музыкальных мелодий на F#: 
