@@ -1,9 +1,13 @@
 # Эссе 0
 
 Выбранный язык: F#
+
 Devtools: .NET SDK, FAKE (F# Make)
+
 Линтер: Fantomas (для автоматического форматирования F# кода) и FSharpLint (для проверки стиля кода)
+
 Фреймворк для тестирования: NUnit
+
 Выбранная книга: Essential F# Ian Russell
 
 
