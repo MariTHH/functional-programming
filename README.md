@@ -2,7 +2,7 @@
 
 Выбранный язык: F#
 
-Devtools: .NET SDK, FAKE (F# Make)
+Devtools: .NET SDK
 
 Линтер: Fantomas (для автоматического форматирования F# кода) и FSharpLint (для проверки стиля кода)
 
